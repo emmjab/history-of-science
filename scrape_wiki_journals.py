@@ -116,7 +116,7 @@ class Journal():
         self.year_range = year_range
         self.link = link
         self.description = description
-        self.papers = papers
+        self.papers = papers #can get this with a google scholar grab maybe?
 
     def get_json(self):
         #todo
@@ -153,6 +153,11 @@ def generate_json_obj(journal_list):
 
     json_data = json.dumps(all_journals, indent=4, sort_keys=True)
     return json_data
+
+def generate_csv(journal_list):
+    print('about to generate csv')
+
+    
 
 
 if __name__ == "__main__":

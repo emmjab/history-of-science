@@ -1,0 +1,47 @@
+General and multidisciplinary sciences
+Basic and physical sciences
+	Astronomy and astrophysics
+	Chemistry
+	Earth and atmospheric sciences
+		Mutli-disciplinary
+		Atmospheric science
+		Geochemistry
+		Geology
+			General
+			Mineralogy and Petrology
+		Geophysics
+		Hydrology
+		Oceanography
+		Unsorted
+	Materials science
+	Mechanics
+	Physics
+Life sciences
+	Biology in general
+	Agriculture
+	Anatomy
+	Biochemistry
+	Bioinformatics
+	Biophysics
+	Botany
+	Chronobiology
+	Ecology
+	Forestry
+	Genetics
+	Husbandry
+	Neuroscience
+	Virology
+	Veterinary medicine
+	Zoology
+Computer science and Engineering
+	Computer Science
+	Engineering
+	Robotics and automation
+Mathematics
+	General mathematics
+	Statistics
+Medicine and health care
+	Public health
+	Immunology
+	Nutrition and food science
+	Pharmaceutical sciences
